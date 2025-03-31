@@ -2,8 +2,6 @@
 
 A clean, elegant, and full-screen text comparison tool that highlights differences between two text inputs.
 
-![Text Diff Viewer Screenshot](https://via.placeholder.com/800x400?text=Text+Diff+Viewer)
-
 ## Features
 
 - **Two-Column Layout**: Side-by-side comparison of original and new text
