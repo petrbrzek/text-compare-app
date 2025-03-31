@@ -73,3 +73,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Created With
+
+This project was created using [Macaly](https://macaly.com), an AI-powered web development assistant that helps build beautiful web applications.
