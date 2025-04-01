@@ -5,6 +5,7 @@ import DiffViewer from "@/components/DiffViewer";
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
+import MadeInMacaly from "@/components/MadeInMacaly";
 
 export default function Home() {
   const [oldText, setOldText] = useState("");
@@ -17,6 +18,7 @@ export default function Home() {
 
   return (
     <main className="w-full h-screen flex flex-col p-2">
+      <MadeInMacaly />
       <div className="flex-1 flex flex-col">
         <div className="text-center py-2">
           <h1 className="text-2xl font-bold tracking-tight">Text Diff Viewer</h1>
